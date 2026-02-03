@@ -1,7 +1,8 @@
 ## IC-AnnoMI
 
 ```
-This repository contains the source code and synthetic dataset generated through in-context zero-shot LLM prompting.
+This repository contains the source code and synthetic dataset generated through in-context
+zero-shot LLM prompting.
 
 ```
 ### Requirements
